@@ -1,6 +1,6 @@
-queryServiceUrl = "https://query.wikidata.org";
-wikiUrl = "https://www.wikidata.org",
-namespace = "Wikidata:Synia:",
+queryServiceUrl = "https:/willighagen-2021.wikibase.cloud/query/";
+wikiUrl = "https://willighagen-2021.wikibase.cloud",
+namespace = "Willighagen:Synia:",
 
 endpoint = queryServiceUrl + "/sparql",
 templateApiUrl = wikiUrl + "/w/api.php",
